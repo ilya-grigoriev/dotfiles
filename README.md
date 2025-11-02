@@ -1,6 +1,6 @@
 # dotfiles
 
-# Hardware:
+# Rocks:
 
 - [zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [tmux](https://github.com/tmux/tmux) **`>= 1.9`**
@@ -23,7 +23,7 @@
 - [cmus](https://github.com/cmus/cmus) - music player
 - [glow](https://github.com/charmbracelet/glow) - markdown viewer
 - [tuir](https://github.com/c4pt0r/tuir) - Reddit TUI
-- [antiword](https://linux.die.net/man/1/antiword) - display Word document text
+- [doxx](https://github.com/bgreenwell/doxx) - document viewer for Word files
 - [abiword](https://wiki.archlinux.org/title/AbiWord) - Word processor
 - [invidtui](https://github.com/darkhz/invidtui) - YouTube TUI
 - [ytermusic](https://github.com/ccgauche/ytermusic) - YouTube Music TUI
